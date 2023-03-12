@@ -2,6 +2,8 @@
 
 ## I'm a Car Guy, Programmer and best of all an Asocial!!
 
+### I am mastering Unity Engine with C# programming Language. Besides the software development industry, I am also interested in the automotive industry. It is my dream to help humanity take great strides in developing technology.
+
 - 🔭 Check out my website [website]
 - Also Check out my resume [resume]
 
