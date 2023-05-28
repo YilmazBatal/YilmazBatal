@@ -1,11 +1,8 @@
 # Hi there, I'm Yılmaz
 
-## I'm a Car Guy, Programmer and best of all an Asocial!!
-
-### I am learning java rn.
+### I am learning java and economics rn.
 
 - 🔭 Check out my website [website]
-- Also Check out my resume [resume]
 
 ### Languages and Tools:
 
