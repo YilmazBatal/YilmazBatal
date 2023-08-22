@@ -1,6 +1,6 @@
 # Hi there, I'm Yılmaz
 
-### I am learning java and economics rn.
+### I am developing Mobile Games and studying economics rn.
 
 - 🔭 Check out my website [website]
 
