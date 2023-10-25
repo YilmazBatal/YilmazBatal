@@ -2,7 +2,7 @@
 
 ### I am developing Mobile Games and studying economics rn.
 
-- 🔭 Check out my website [website]
+- 🔭 Check out my website [website] and PlayStore [PlayStore]
 
 ### Languages and Tools:
 
@@ -30,3 +30,4 @@
 
 [website]: http://yilmazbatal.epizy.com/
 [resume]: https://drive.google.com/drive/folders/1zGEdhoxutaen7UvU5gqZQ0cTt2bQDUIK?usp=share_link
+[PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901
