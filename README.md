@@ -15,6 +15,7 @@
 <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="PenPot" width="26px" src="[https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F120416%2Fpenpot&psig=AOvVaw0mYeWPvMyE8SB9EvMG59vX&ust=1700161658688000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi3xe_ZxoIDFQAAAAAdAAAAABAJ)" style="padding-right:10px;" />
 
 <br />
 <br />
