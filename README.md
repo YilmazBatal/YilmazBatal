@@ -16,6 +16,8 @@
 <img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="PenPot" width="26px" src="https://static-00.iconduck.com/assets.00/penpot-icon-408x512-dwt4p7sy.png" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Dart" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="padding-right:10px;" />
 
 <br />
 <br />
