@@ -1,7 +1,10 @@
-# Hi there, I'm Yılmaz
+# Yo, Yılmaz here👋
 
-### I am developing Mobile Games and studying economics rn.
+## Developing Mobile Games and interested in music and economics.
 
+### Currently Working On [HABBITTY].
+
+- Even tho i declined microsoft's job offer, it doesn't mean i will decline yours!
 - 🔭 Check out my website [website] and PlayStore [PlayStore]
 
 ### Languages and Tools:
@@ -24,13 +27,12 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="YilmazBatal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YilmazBatal&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazbatal&layout=compact)
 
-</details>
-
+[HABBITTY]: https://github.com/YilmazBatal/Habbitty-App
 [website]: http://yilmazbatal.epizy.com/
 [resume]: https://drive.google.com/drive/folders/1zGEdhoxutaen7UvU5gqZQ0cTt2bQDUIK?usp=share_link
 [PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901
