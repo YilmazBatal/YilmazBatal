@@ -35,4 +35,4 @@
 [HABBITTY]: https://github.com/YilmazBatal/Habbitty-App
 [website]: http://yilmazbatal.epizy.com/
 [resume]: https://drive.google.com/drive/folders/1zGEdhoxutaen7UvU5gqZQ0cTt2bQDUIK?usp=share_link
-[PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901
+[PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901 
