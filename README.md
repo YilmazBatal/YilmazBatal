@@ -1,6 +1,6 @@
 # Yo, Yılmaz here👋
 
-## Developing Mobile Games and interested in music and economics.
+## Developing Mobile Games and interested in music and trading stocks.
 
 ### Currently Working On [HABBITTY].
 
