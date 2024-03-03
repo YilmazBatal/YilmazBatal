@@ -2,8 +2,6 @@
 
 ## Developing Mobile Games and interested in music and trading stocks.
 
-### Currently Working On [HABBITTY].
-
 - Even tho i declined microsoft's job offer, it doesn't mean i will decline yours!
 - 🔭 Check out my website [website] and PlayStore [PlayStore]
 
