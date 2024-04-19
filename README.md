@@ -1,6 +1,6 @@
 # Yo, Yılmaz here👋
 
-## Developing Mobile Games and interested in music and trading stocks.
+## Developing Mobile Games and interested in economics and trading.
 
 - Even tho i declined microsoft's job offer, it doesn't mean i will decline yours!
 - 🔭 Check out my website [website] and PlayStore [PlayStore]
