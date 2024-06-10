@@ -27,7 +27,7 @@
 <img align="left" alt="NodeJS" width="26px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png?f=webp" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="padding-right:10px;" />
