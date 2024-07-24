@@ -2,7 +2,7 @@
 
 ## Developing Mobile Games also interested in economics and trading.
 - Even tho i declined microsoft's job offer, it doesn't mean i will decline yours! (pls hire me)
-- 🔭 Check out my website [website] and PlayStore [PlayStore]
+- 🔭 Check out my [website] [itch.io] and [PlayStore] (unavailable)
 
 ### "Cowie - Your Virtual Pet" publishing soon!!! (90/90) 
 - Code will be publishing on here so you can MOCK my code 💀
@@ -16,6 +16,7 @@
 <img align="left" alt="cs" width="26px" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe AI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe PS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Adobe PR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" style="padding-right:10px;" />
 
 <br />
 
@@ -46,3 +47,4 @@
 [website]: http://yilmazbatal.epizy.com/
 [resume]: https://drive.google.com/drive/folders/1zGEdhoxutaen7UvU5gqZQ0cTt2bQDUIK?usp=share_link
 [PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901 
+[itch.io]: https://ilmas.itch.io/
