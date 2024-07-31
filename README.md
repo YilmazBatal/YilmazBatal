@@ -1,11 +1,11 @@
-# Yo, Yılmaz here👋
+# Yılmaz here👋
 
-## Developing Mobile Games also interested in economics and trading.
-- Even tho i declined microsoft's job offer, it doesn't mean i will decline yours! (pls hire me)
-- 🔭 Check out my [website] [itch.io] and [PlayStore] (unavailable)
+## Developing Video Games also interested in economics and trading.
+- Even tho i declined microsoft's job offer, it doesn't mean i will decline yours! (pls hire me) 
+- 🔭 Check out my [Linkedin] & [Website] & [itch.io] & [PlayStore] (unavailable)
 
 ### "Cowie - Your Virtual Pet" publishing soon!!! (90/90) 
-- Code will be publishing on here so you can MOCK my code 💀
+- Code will be publishing on here so you can MOCK my code!
 
 
 ### Favorite Language and Tools:
@@ -43,8 +43,8 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazbatal&layout=compact)
 
-[HABBITTY]: https://github.com/YilmazBatal/Habbitty-App
-[website]: http://yilmazbatal.epizy.com/
-[resume]: https://drive.google.com/drive/folders/1zGEdhoxutaen7UvU5gqZQ0cTt2bQDUIK?usp=share_link
+[Website]: http://yilmazbatal.epizy.com/
+[Resume]: https://drive.google.com/drive/folders/1Z9AOdI1k0TWtTPa0BEFpXsISAbc40mBp?usp=sharing
 [PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901 
 [itch.io]: https://ilmas.itch.io/
+[Linkedin]:https://www.linkedin.com/in/yilmazbatal/
