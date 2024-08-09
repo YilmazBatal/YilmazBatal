@@ -1,13 +1,11 @@
 # Yılmaz here👋
 
+## **My portfolio** as a game developer
+- ``>>`` [itch.io]
+- ``>>`` [PlayStore] (unavailable)
 ## Developing Video Games also interested in economics and trading.
 - Even tho i declined microsoft's job offer, it doesn't mean i will decline yours! (pls hire me)
-- My portfolio as a game developer [itch.io]
-- 🔭 Check out my [Linkedin] & [Website] & [PlayStore] (unavailable)
-
-### "Cowie - Your Virtual Pet" publishing soon!!! (90/90) 
-- Code will be publishing on here so you can MOCK my code!
-
+- 🔭 Check out my [Linkedin] & [Website] & [itch.io] & [PlayStore] (unavailable)
 
 ### Favorite Language and Tools:
 
