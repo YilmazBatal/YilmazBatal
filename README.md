@@ -1,11 +1,8 @@
 # Yılmaz here👋
 
-## **My portfolio** as a game developer
-- ``>>`` [itch.io]
-- ``>>`` [PlayStore] (unavailable)
-## Developing Video Games also interested in economics and trading.
-- Even tho i declined microsoft's job offer, it doesn't mean i will decline yours! (pls hire me)
-- 🔭 Check out my [Linkedin] & [Website] & [itch.io] & [PlayStore] (unavailable)
+## Interesed in game **development**, Switched to 3D development
+
+- 🔭 [Linkedin] & [Website] & [itch.io]
 
 ### Favorite Language and Tools:
 
@@ -16,6 +13,7 @@
 <img align="left" alt="Adobe AI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe PS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe PR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" style="padding-right:10px;" />
 
 <br />
 
