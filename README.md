@@ -38,7 +38,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazbatal&layout=compact)
 
-[Website]: http://yilmazbatal.epizy.com/
+[Website]: http://yilmazbatal.com/
 [Resume]: https://drive.google.com/drive/folders/1Z9AOdI1k0TWtTPa0BEFpXsISAbc40mBp?usp=sharing
 [PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901 
 [itch.io]: https://ilmas.itch.io/
