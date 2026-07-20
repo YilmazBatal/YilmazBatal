@@ -9,7 +9,8 @@
 #### 🍍 [Resume]
 
 [yilmazbatal.com]: http://yilmazbatal.com/
-[Resume]: [https://drive.google.com/drive/folders/1Z9AOdI1k0TWtTPa0BEFpXsISAbc40mBp?usp=sharing](https://drive.google.com/drive/folders/1Z9AOdI1k0TWtTPa0BEFpXsISAbc40mBp)
+[Resume]: https://drive.google.com/file/d/1DHj8fnld8mVtK6nYDLN_tbeW7fzVAshV/view?usp=sharing
+
 [PlayStore]: https://play.google.com/store/apps/dev?id=6798115249539883901 
 [itch.io]: https://ilmas.itch.io/
 [Linkedin]:https://www.linkedin.com/in/yilmazbatal/
