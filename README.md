@@ -2,7 +2,7 @@
 
 ### Specialized in **game development**, addicted to fixing bugs.
 
-I'am Yilmaz currently studying Computer Engineering BAU Cyprus.
+I'm Yılmaz, currently studying Computer Engineering at BAU Cyprus.
 
 Focusing on Unity (C#), Architecture & Clean Code.
 
