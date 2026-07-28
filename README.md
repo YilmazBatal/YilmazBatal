@@ -26,3 +26,10 @@ Focusing on Unity (C#), Architecture & Clean Code.
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+
+### 🌟 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **EasyRPG** | Strategic turn-based RPG with custom UI system | [Repo 🔗](https://github.com/YilmazBatal/EasyRPG) |
+| **Mute.exe** | BAU Game Jam project focused on atmospheric puzzle mechanics | [Repo 🔗](https://github.com/YilmazBatal/Mute.exe) |
