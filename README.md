@@ -32,4 +32,5 @@ Focusing on Unity (C#), Architecture & Clean Code.
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **EasyRPG** | Strategic turn-based RPG with custom UI system | [Repo 🔗](https://github.com/YilmazBatal/EasyRPG) |
+| **Zombfection** | 2D Realtime multiplayer tag game to play with your friends| [PLAY HERE 🔗](https://zombfection.YilmazBatal.com) |
 | **Mute.exe** | BAU Game Jam project focused on atmospheric puzzle mechanics | [Repo 🔗](https://github.com/YilmazBatal/Mute.exe) |
